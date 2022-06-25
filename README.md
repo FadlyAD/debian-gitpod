@@ -1,2 +1,2 @@
 # debian-gitpod
-As usual, Debian (Testing) gitpod entry
+As usual, Debian (Unstable) gitpod entry
